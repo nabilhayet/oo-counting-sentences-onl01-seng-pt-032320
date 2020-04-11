@@ -19,7 +19,7 @@ class String
 
   def count_sentences
     arr=[]
-  arr=self.split(/^\w+[\.|\?|\!]$/)
+ # arr=self.split(/^\w+[\.|\?|\!]$/)
   binding.pry 
   if arr.length ==0 
     return 0 
