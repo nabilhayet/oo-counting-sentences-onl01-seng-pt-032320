@@ -26,10 +26,6 @@ class String
   else 
     arr.delete_if{|str| str==""}
     arr.length
-  
   end
-  
-  
-  # .delete_if
 end
 end 
