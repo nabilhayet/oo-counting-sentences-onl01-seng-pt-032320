@@ -24,7 +24,7 @@ class String
   if arr.length ==0 
     return 0 
   else 
-    arr.delete_if
+    arr.delete_if{|str|}
   
   end
   
