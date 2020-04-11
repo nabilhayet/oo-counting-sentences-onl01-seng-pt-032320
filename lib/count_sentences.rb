@@ -28,5 +28,8 @@ class String
     arr.length
   
   end
+  
+  
+  # .delete_if
 end
 end 
