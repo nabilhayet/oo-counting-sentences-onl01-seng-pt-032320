@@ -23,7 +23,8 @@ class String
   arr=self.split(/\.|\?|\!/)
   if arr.length ==0 
     return 0 
-  
+  else 
+    arr.length
   
   end
 end
