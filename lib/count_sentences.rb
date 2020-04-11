@@ -25,6 +25,7 @@ class String
     return 0 
   else 
     arr.delete_if{|str| str==""}
+    arr.length
   
   end
   
